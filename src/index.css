@@ -1,51 +1,26 @@
 body {
-  max-width: 500px;
-  margin: 0px auto;
-  padding: 20px;
-  font-family: "Muli", sans-serif;
-  font-size: 0.9rem;
-}
-
-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 650px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: #333;
 }
 
 h1 {
-  text-align: center;
+  font-size: 2em;
+  margin-bottom: 0.5em;
 }
 
-h2 {
-  text-align: center;
+p {
+  margin: 1em 0;
 }
 
-header p {
-  text-align: center;
+a {
+  color: #0066cc;
+  text-decoration: none;
 }
 
-.profile-picture {
-  border-radius: 50%;
-}
-
-.links {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.links li {
-  display: inline;
-  padding: 0 5px;
-}
-
-.sites {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  text-align: center;
-}
-
-.sites li {
-  padding: 5px;
+a:hover {
+  text-decoration: underline;
 }

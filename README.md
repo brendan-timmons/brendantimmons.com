@@ -1,8 +1,7 @@
-
-
 # brendantimmons.com
 
-Small personal site.
+Minimal personal site.
 
+## Deployment
 
-Layout cred https://github.com/mads-hartmann/mads-hartmann.com
+Hosted on Cloudflare Pages.
