@@ -24,3 +24,19 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+h2 {
+  font-size: 1.4em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
+.projects {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.projects li {
+  margin: 0.5em 0;
+}
